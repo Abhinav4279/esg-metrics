@@ -1,0 +1,42 @@
+[
+  {
+  "esg_id":"4720",
+  "company_name":"Microsoft Corporation",
+  "exchange_symbol":"NASDAQ",
+  "stock_symbol":"MSFT",
+  "environment_grade":"AA",
+  "environment_level":"Excellent",
+  "social_grade":"BBB",
+  "social_level":"High",
+  "governance_grade":"BB",
+  "governance_level":"Medium",
+  "total_grade":"A",
+  "total_level":"High",
+  "disclaimer":"ESG Enterprise's ESG Rating data are all based on public information and provided for informational purposes only. No member of ESG Enterprise or related parties make any prediction, warranty or representation whatsoever, expressly or impliedly, either as to the suitability of our Scores for any particular purposes or the validity of any derivative analysis or conclusion based on the Scores.",
+  "last_processing_date":"27-04-2022",
+  "environment_score":715,
+  "social_score":443,
+  "governance_score":375,
+  "total":"1533"
+  },
+  {
+    "esg_id":"4720",
+    "company_name":"Microsoft Corporation",
+    "exchange_symbol":"NASDAQ",
+    "stock_symbol":"MSFT",
+    "environment_grade":"AA",
+    "environment_level":"Excellent",
+    "social_grade":"BBB",
+    "social_level":"High",
+    "governance_grade":"BB",
+    "governance_level":"Medium",
+    "total_grade":"A",
+    "total_level":"High",
+    "disclaimer":"ESG Enterprise's ESG Rating data are all based on public information and provided for informational purposes only. No member of ESG Enterprise or related parties make any prediction, warranty or representation whatsoever, expressly or impliedly, either as to the suitability of our Scores for any particular purposes or the validity of any derivative analysis or conclusion based on the Scores.",
+    "last_processing_date":"27-04-2022",
+    "environment_score":715,
+    "social_score":443,
+    "governance_score":375,
+    "total":"1533"
+    }
+]
